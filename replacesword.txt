@@ -1,0 +1,1 @@
+enter_chinese_character_follow_by_a_space enter_english_translation
